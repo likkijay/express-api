@@ -1,3 +1,3 @@
 # express-api
 
-[![Coverage Status](https://coveralls.io/repos/github/likkijay/express-api/badge.svg?branch=master)](https://coveralls.io/github/likkijay/express-api?branch=master)
+[![Build Status](https://travis-ci.com/likkijay/express-api.svg?branch=master)](https://travis-ci.com/likkijay/express-api)  [![Coverage Status](https://coveralls.io/repos/github/likkijay/express-api/badge.svg?branch=master)](https://coveralls.io/github/likkijay/express-api?branch=master)  [![Maintainability](https://api.codeclimate.com/v1/badges/c43c0fe125fc59292d6c/maintainability)](https://codeclimate.com/github/likkijay/express-api/maintainability)
