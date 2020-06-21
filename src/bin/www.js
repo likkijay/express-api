@@ -4,6 +4,7 @@ import http from 'http';
 
 import app from '../app';
 
+
 const normalizePort = val => {
   const port = parseInt(val, 10);
 
